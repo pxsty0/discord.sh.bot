@@ -1,2 +1,5 @@
 # discord.sh.bot
-Discord Botu Üzerinden Terminal Komutları Kullanmanızı Sağlayan Sistem
+
+## Zamanında kendim birebir kullandığım bir botdur
+
+### Neredeyse 6 ay öncesinde anlık geliştirdim bir miktar shitcode olabilir

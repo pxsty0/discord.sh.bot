@@ -1,0 +1,19 @@
+{
+  "name": "pxserv-bot-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PXSTY",
+  "license": "MIT",
+  "dependencies": {
+    "check-disk-space": "^3.3.1",
+    "discord.js": "^13.12.0",
+    "ms": "^2.1.3",
+    "systeminformation": "^5.16.0",
+    "wio.db": "^4.0.22"
+  }
+}
